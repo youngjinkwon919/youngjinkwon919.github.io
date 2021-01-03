@@ -151,3 +151,14 @@ li {
 .subtext-dates {
   color: #A0A0A0;
 }
+
+hr {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: inset;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  border-width: 0.5px;
+  opacity: 0.6;
+}
