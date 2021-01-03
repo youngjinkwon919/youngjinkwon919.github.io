@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Soomin.Kim - HCI/UX Researcher</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/one-page-wonder.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#">Soomin&#128526;</a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a href="#about">Publication</a>
+                    </li>
+                    <li>
+                        <a href="#services">Education</a>
+                    </li>
+                    <li>
+                        <a href="#contact">Experience</a>
+                    </li>
+                    <li>
+                        <a href="#honors">Honors</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    <!-- Full Width Image Header -->
+    <header class="header-image">
+        <div class="headline">
+            <div class="container">
+
+                <h2>This is Soomin Kim&#128526;</h2>
+                <img src="assets/soominsoomin.jpeg" width = "30%"  height = "30%">
+                <p></p>
+ <p>I'm a PhD student in the <a href= http://hcid.snu.ac.kr/><code>hci+d lab.</code></a> at Seoul National University advised by Joonhwan Lee. </p>
+
+               <p>I design interactive systems to <code>facilitate better communication and collaboration</code> among users. I have conducted a study to improve a current web survey system by using a chatbot (<a href= https://soominkim.github.io/project/CHI2019_KIM_Comparing.pdf><code>CHI 2019 full paper</code></a>). Recently, we designed the chatbot, <a href= https://poki-bot.github.io/><code>Poki</code></a>, which manages and facilitates group chat discussion (<a href=  https://soominkim.github.io/project/CHI20_Kim_Bot_Bunch.pdf><code>CHI 2020 full paper</code></a>). </p>
+               <p></p>
+
+                <p>More broadly, my research interests are in the areas of <code>Human-AI Interaction</code>, <code>conversational agents/chatbots</code>, and <code>social computing/data analysis</code>. I also love to make the new services and systems and to analyze user behavior with a data-driven approach.</p>
+
+                <p>Blogging on <a href= https://brunch.co.kr/@flatdesign><code>brunch</code> </a>about mobile design and data science.</p>
+                <p>Contact me via <code>soominkim@snu.ac.kr</code> or <code>tatear1004@gmail.com</code>. </p>
+
+
+                <p>Here's my <a href= https://drive.google.com/file/d/1-3ZyevUyTW896ME4XXukBAzqvK64v0Mf/view?usp=sharing><code>CV</code></a>. </p>
+                    <p><a href= https://scholar.google.com/citations?user=j_wRml0AAAAJ&hl=ko&oi=sra><code>Google Scholar</code></a></p>
+                <p></p>
+            </div>
+        </div>
+    </header>
+
+    <!-- Page Content -->
+    <div class="container">
+
+        <hr class="featurette-divider">
+
+        <!-- First Featurette -->
+        <div class="featurette" id="about">
+
+            <h2 class="featurette-heading">Publications
+                <span class="text-muted">(selected)</span>
+            </h2>
+            <ul type="disc">
+            <p class="lead">
+                <p><code>Conference Proceedings</code></p>
+                 <p><li>CHI 2020: ACM Conference on Human Factors in Computing Systems. <strong>Soomin Kim</strong>, Jinsu Eun, Changhoon Oh, Bongwon Suh, Joonhwan Lee (2020). Bot in the Bunch: Facilitating Group Chat Discussion by Improving Efficiency and Participation with a Chatbot. <a href= https://soominkim.github.io/project/CHI20_Kim_Bot_Bunch.pdf><code>PDF</code></a> </li></p>
+            <p><li>DIS 2020: ACM Conference on Designing Interactive Systems. Changhoon Oh, Seonghyeon Kim, Jinhan Choi, Jinsu Eun, <strong>Soomin Kim</strong>, Juho Kim, Joonhwan Lee, Bongwon Suh (2020). Understanding How People Reason about Aesthetic Evaluations of Artificial Intelligence. <code>Honorable Mention (top 5%)</code>, <a href= https://soominkim.github.io/project/DIS20_Understanding.pdf><code>PDF</code></a></li></p>
+
+                <p><li>CHI 2019: ACM Conference on Human Factors in Computing Systems. <strong>Soomin Kim</strong>, Joonhwan Lee, Gahgene Gweon (2019). Comparing Data from Chatbot and Web Surveys: Effects of Platform and Conversational Style on Survey Response Quality. <a href= https://soominkim.github.io/project/CHI2019_KIM_Comparing.pdf><code>PDF</code></a>, <a href= https://youtu.be/IbdzG56UUTk><code>Video</code></a></li></p>
+
+                <p><li>CHIPLAY 2019: Proceedings of the 2019 Annual Symposium on Computer-Human Interaction in Play. <strong>Soomin Kim</strong>, Gyuho Lee, Seo-young Lee, Sanghyuk Lee, Joonhwan Lee. Game or Live Streaming?: Motivation and Social Experience in Live Mobile Quiz Shows. <a href= https://soominkim.github.io/project/CHIPLAY19_KIM.pdf><code>PDF</code></a> </li></p>
+
+                 <p><code>Journal Papers</code></p>
+                     <p><li> Electronics. Seo-young Lee, Gyuho Lee, <strong>Soomin Kim</strong>, Joonhwan Lee (2019). Expressing Personalities of Conversational Agents through Visual and Verbal Feedback. Electronics, 8(7), 794. <a href= https://soominkim.github.io/project/Electronics2019_Lee.pdf><code>PDF</code></a></li></p>
+
+
+
+                <p><code>Extended Abstracts</code></p>
+
+
+                    <p><li>HRI 2018: ACM/IEEE International Conference on Human-Robot Interaction. Seo-young Lee, <strong>Soomin Kim</strong>, &#38; Joonhwan Lee (2018). Robots in Dynamic Contexts: Effects of Robot Tasks on Expected Personality.</li></p>
+                    <p><li>VRST 2017: ACM Conference on Virtual Reality Software and Technology. <strong>Soomin Kim</strong>, et al.(2017). Immersive VR for Numerical Engagement.</li></p>
+
+                    <p><li>UIST 2016: ACM Symposium on User Interface Software and Technology. <strong>Soomin Kim</strong>, Jonghwan Oh, &#38; Joonhwan Lee. (2016). Histogram: Spatiotemporal Photo-Displaying Interface. </li></p>
+                    <p><li>TVX 2016: ACM International Conference on Interactive Experiences for TV and Online Video. <strong>Soomin Kim</strong>, Jonghwan Oh, &#38; Joonhwan Lee. (2016). Automated News Generation for TV Program Ratings.</li></p>
+                     <p><li>Mobile HCI 2016: ACM Conference on Human-Computer Interaction with Mobile Devices and Services Adjunct. Joonyoung Lee, Nahi Hong, <strong>Soomin Kim</strong>, Jonghwan Oh, &#38; Joonhwan Lee (2016). Smiley face: why we use emoticon stickers in mobile messaging.</li></p>
+
+                     <p><li>Conference on Cybercommunication Academic Society. <strong>Soomin Kim</strong> (2015). Journalism as a Profession in Korea with Computational Approach.</li></p>
+                   <p><code>Under Review</code></p>
+                     <p><li><strong>Soomin Kim</strong> et al. Laugh and Grow "Likes": How Facial Emotions in Selfies Affect Social Engagement on Instagram.</li></p>
+
+                 <p><code>Conference Proceedings & Journal Papers (Domestic)</code></p>
+                     <p><li>KCC 2019: Korea Computer Congress. <strong>Soomin Kim</strong>, Joonhwan Lee, Gahgene Gweon (2019). A Study on Predictors of Environmental factors that impact Problematic Internet Usage among Korean Adolescents. <code>Best Paper</code> <a href=  https://soominkim.github.io/project/KIISE19_Kim.pdf><code>PDF</code></a></li></p>
+
+
+            </p>
+            </ul>
+        </div>
+
+        <hr class="featurette-divider">
+
+        <!-- Second Featurette -->
+        <div class="featurette" id="services">
+            <h2 class="featurette-heading">Education
+                <span class="text-muted"></span>
+            </h2>
+            <ul type="disc">
+            <p class="lead">
+                <p><li> Ph.D. in Communication, Seoul National University (2016.09-present)</p>
+                <p><li> M.A. in Communication, Seoul National University (2014.09-2016.08)</p>
+
+                <p><li> B.A. in Psychology / B.B.A. in Business Administration, Yonsei University (2007.03-2012.02)</p>
+                <p><li> Daewon Foreign Language High School (2004-2006) </p>
+
+        </p>
+        </ul>
+        </div>
+
+        <hr class="featurette-divider">
+
+        <!-- Third Featurette -->
+        <div class="featurette" id="contact">
+            <!--img class="featurette-image img-circle img-responsive pull-right" src="http://placehold.it/500x500"-->
+            <h2 class="featurette-heading">Work Experience
+                <span class="text-muted">and Affiliation</span>
+            </h2>
+            <ul type="disc">
+            <p class="lead">
+
+                <p><li>CJ E&#38;M (2012-2014). Worked as Marketing Analyst.</p>
+                <p><li>HP Korea (2010). Worked as Digital Research Intern.</p>
+                <p><li>Daum Soft (2010). Worked as Online Business Intern.</p>
+                <p><li> Human-Computer Interaction &#38; Design Lab. (2015-) </p>
+                <p><li> Teaching Assistant for "HCI Theory and Practice" (2015, 2019, 2020)</p>
+
+
+        </p>
+        </ul>
+        </div>
+
+       <hr class="featurette-divider">
+       <div class="featurette" id="honors">
+            <h2 class="featurette-heading">Awards and Honors
+                <span class="text-muted"></span>
+            </h2>
+            <ul type="disc">
+            <p class="lead">
+
+                <p><li> AI for ALL Fellowship (by Nongshim Youlchon Foundation and Artificial Intelligence Institute of SNU) (2020-)</p>
+                <p><li> Content Startup League (by KOCCA) (2019) </p>
+                <p><li> Global PhD Fellowship (GPF, by National Research Foundation of Korea) (2017-2019)</p>
+                <p><li> Google Travel and Conference Grants (2019)</p>
+                <p><li> SIGGRAPH Student Travel Grant (2017) </p>
+
+        </p>
+        </ul>
+        </div>
+
+        <hr class="featurette-divider">
+
+        <!-- Footer -->
+        <footer>
+            <div class="row">
+                <div class="col-lg-12">
+                    <p>All contents &copy; Soomin Kim</p>
+                </div>
+            </div>
+        </footer>
+
+    </div>
+    <!-- /.container -->
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+</body>
+
+</html>

@@ -15,7 +15,7 @@ h4,
 h5,
 h6 {
   font-family: 'Catamaran';
-  font-weight: 800 !important;
+  font-weight: 600 !important;
 }
 
 .btn-xl {
@@ -57,9 +57,9 @@ h6 {
 header.masthead {
   position: relative;
   overflow: hidden;
-  padding-top: calc(7rem + 72px);
-  padding-bottom: 7rem;
-  background: linear-gradient(0deg, #ff6a00 0%, #ee0979 100%);
+  padding-top: calc(1rem + 72px);
+  padding-bottom: 1rem;
+  background: linear-gradient(0deg, rgba(231,210,207,0.5) 0%, rgba(245,200,193,0.5) 100%);
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: scroll;
@@ -69,14 +69,17 @@ header.masthead {
 header.masthead .masthead-content {
   z-index: 1;
   position: relative;
+  margin: 5px 3rem;
+  color: #484848;
 }
 
 header.masthead .masthead-content .masthead-heading {
-  font-size: 4rem;
+  font-size: 1.5rem;
 }
 
 header.masthead .masthead-content .masthead-subheading {
-  font-size: 2rem;
+  font-size: 1.7rem;
+  padding-bottom: 1rem;
 }
 
 header.masthead .bg-circle {
@@ -157,4 +160,32 @@ header.masthead .bg-circle-4 {
 
 .btn-secondary:focus {
   box-shadow: 0 0 0 0.2rem rgba(255, 106, 0, 0.5);
+}
+
+.content-container {
+  padding: 2rem 3rem;
+}
+
+.features {
+  padding: 2rem;
+}
+
+li {
+  padding: 0.3rem;
+}
+
+.col-l {
+  width: 60%;
+  padding-right: 2rem;
+}
+
+.col-r {
+  width: 40%;
+  padding-left: 2rem;
+}
+
+.row {
+  padding-right: 1.1rem;
+  padding-left: 1.1rem;
+  padding-bottom: 1.1rem;
 }
